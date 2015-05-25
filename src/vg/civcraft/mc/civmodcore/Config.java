@@ -11,9 +11,9 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 
-import net.minecraft.util.com.google.common.reflect.ClassPath;
-import net.minecraft.util.com.google.common.reflect.ClassPath.ClassInfo;
-import net.minecraft.util.com.google.common.collect.ImmutableSet;
+import com.google.common.reflect.ClassPath;
+import com.google.common.reflect.ClassPath.ClassInfo;
+import com.google.common.collect.ImmutableSet;
 
 import org.bukkit.Material;
 import org.bukkit.configuration.ConfigurationSection;
